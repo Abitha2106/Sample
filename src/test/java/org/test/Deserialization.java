@@ -36,6 +36,7 @@ public static void main(String[] args) throws IOException {
 	         String type = topping2.getType();
 	         System.out.println(id+"\t" +type);
 	   }
+	   System.out.println("Executed");
 	   
 	   
   }
